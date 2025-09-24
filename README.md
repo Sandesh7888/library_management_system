@@ -1,11 +1,4 @@
-﻿# library_management_system
-
-Got it 👍
-You want a **GitHub repository description** (README intro) for your **Library Management System project**. Here’s a clean and professional one you can use:
-
----
-
-## 📚 Library Management System (Java)
+﻿# Library Management System (Java)
 
 A simple **Library Management System** built in **Java** using layered architecture (**DAO → Service → Main**).
 This project demonstrates the use of **OOP concepts, custom exceptions, and modular design** to manage books, users, and librarians in a library.
@@ -43,7 +36,7 @@ src/
 * Exception Handling
 * Modular Programming (module-info.java)
 
-### ▶️ How to Run
+How to Run
 
 1. Clone the repository
 
@@ -60,8 +53,4 @@ src/
 
    ```bash
    java -cp bin library_management_system.main.LibraryManagementSystemApp
-   ```
-
----
-
-👉 Do you want me to make a **short one-liner description** (for GitHub repo settings), or a **full README.md** file with badges, screenshots, and contribution guidelines?
+   ``
